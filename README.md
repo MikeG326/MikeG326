@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Analytics Engineer at the Information Lab.
+- 🔭 I’m currently working as an Analytics Engineer at the Information Lab.
 - 🌱 I’m currently learning the foundations of Data Engineering.
 - 👯 I’m looking to learn as much as I can.
 - 😄 Pronouns: He/Him
