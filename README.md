@@ -1,13 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MikeG326/MikeG326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there, I'm Mike!
 
-Here are some ideas to get you started:
+### Analytics Engineer Consultant | Data Enthusiast | Lifelong Learner
 
-- 🔭 I’m currently working as an Analytics Engineer at the Information Lab.
-- 🌱 I’m currently learning the foundations of Data Engineering.
-- 👯 I’m looking to learn as much as I can.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a father to the cutest little girl in the world!
--->
+</div>
+
+---
+
+I'm an **Analytics Engineer Consultant at The Information Lab**, bringing together my background in **Project Management, Data Analysis, and Cybersecurity** to solve problems and transform complex data into meaningful insights.
+
+I'm currently expanding my skills in **Data Engineering**, learning how to build efficient, reliable, and secure data solutions.
+
+⚡ **Fun Fact:** I'm the proud father of the cutest little girl in the world! 👨‍👧
